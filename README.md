@@ -8,7 +8,7 @@ Este archivo contiene las especificaciones del caso práctico que se desea desar
 #### ¿Qué se evaluará?
 Principalmente los siguientes aspectos:
 
-1. Programar los módulos Frontend en un Framework de javascript como Angular 6, Bootstrap, ReactJs o también usando Primefaces de Java. Para la parte Backend debe implementar Java JEE usando los conceptos de WAR y EJB y/o RESTFULL si escoge un framework javascript. Para la base de datos puede usar Postgres o Mysql.
+1. Programar los módulos Frontend en cualquier Framework de javascript como Angular, Bootstrap, ReactJs o también usando Primefaces de Java. Para la parte Backend debe implementar Java JEE usando los conceptos de WAR y EJB y/o RESTFULL si escoge un framework javascript. Para la base de datos puede usar Postgres o Mysql.
 2.  El uso de  patrones de diseño como Singleton, Builder, Facade, Observer, Interface, Prototype en los dos frentes backend y frontend.
 3. Orden del código (Buenas prácticas)
 4. Creatividad
